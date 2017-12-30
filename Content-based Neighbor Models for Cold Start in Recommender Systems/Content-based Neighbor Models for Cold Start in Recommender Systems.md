@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: ./
+---
+
 ## Content-based Neighbor Models for Cold Start in Recommender Systems
 
 #### 一、ACM Recommender Systems Challenge'17 
@@ -18,14 +22,14 @@ online phase:  online product
 
 4. user-item interaction
 
+   ![](https://github.com/mutha008/recommender-paper/raw/master/Content-based%20Neighbor%20Models%20for%20Cold%20Start%20in%20Recommender%20Systems/QQ%E5%9B%BE%E7%89%8720171230164844.png)
 
-![https://github.com/mutha008/recommender-paper/tree/master/Content-based%20Neighbor%20Models%20for%20Cold%20Start%20in%20Recommender%20Systems/QQ图片20171230164844.png]
 
    5.user-item temporal  特征同user-item interaction，但是只取最近一次的item
 
 #### 三、模型
 
-![QQ图片20171230170411](G:\论文及资料\推荐/QQ图片20171230170411.png)
+![QQ图片20171230170411](https://github.com/mutha008/recommender-paper/raw/master/Content-based%20Neighbor%20Models%20for%20Cold%20Start%20in%20Recommender%20Systems/QQ%E5%9B%BE%E7%89%8720171230170411.png)
 
 ##### 常用模型：
 
